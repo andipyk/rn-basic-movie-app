@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#1A1A40',
+        backgroundColor: '#072227',
         marginTop: StatusBar.currentHeight || 0,
     },
     item: {
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#7A0BC0',
+        backgroundColor: '#35858B',
         padding: 20,
         marginVertical: 8,
         marginHorizontal: 16,
@@ -46,13 +46,13 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 32,
-        color: '#FA58B6'
+        color: '#ffffff'
     },
     image: {
         width: 260,
         height: 300,
         borderWidth: 2,
-        borderColor: '#270082',
+        borderColor: '#4FBDBA',
         resizeMode: 'contain',
         margin: 8
 
